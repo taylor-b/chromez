@@ -1,0 +1,15 @@
+{"cardview-heading": "WebRTC Networking/API Team",
+"users": [
+  {"user": "Taylor", "email": "deadbeef@webrtc.org"},
+  {"user": "Zhi", "email": "zhihuang@webrtc.org"},
+  {"user": "Zach", "email": "zstein@webrtc.org"},
+  {"user": "Taylor (Chromium)", "email": "deadbeef@chromium.org"},
+  {"user": "Zhi (Chromium)", "email": "zhihuang@chromium.org"},
+  {"user": "Zach (Chromium)", "email": "zstein@chromium.org"}
+],
+"dashes": ["cz-clock-dash", "cz-review-latency-dash", "cz-review-load-dash"],
+"timezones": [
+  {"city": "Kirkland", "timezone": "US/Pacific", "local": true},
+  {"city": "Stockholm", "timezone": "Europe/Stockholm"}
+  ]
+}
